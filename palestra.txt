@@ -1,0 +1,13 @@
+programacao assíncrona?
+
+- restaurante síncrono
+
+ - O cliente A faz um pedido para o garcom;
+ - Passou o tem e o prato ainda nao chegou;
+ - como resolver (mais threads, mais garcons)
+
+- restaurante assíncrono 
+ - O garcom vai a cozinha
+ - atende o cliente A e B 
+ - callback * sinal que dispara quando uma coisa ficou pronta;
+
